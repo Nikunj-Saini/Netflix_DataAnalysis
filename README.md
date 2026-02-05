@@ -52,17 +52,14 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 ---
 
 ## Project Structure
+
 Netflix-Data-Analysis/
-│
 ├── data/
 │   └── netflix_titles.csv
-│
 ├── notebooks/
 │   └── Netflix_Analysis.ipynb
-│
 ├── images/
 │   └── plots_and_charts.png
-│
 └── README.md
 
 ---
@@ -80,13 +77,6 @@ Netflix-Data-Analysis/
 4. Run all cells sequentially  
 
 ---
-
-## Future Enhancements
-- Build an interactive dashboard  
-- Perform sentiment analysis on show descriptions  
-- Create a content recommendation system  
-- Integrate visualization tools like Power BI or Tableau  
-
 ---
 
 ## Author
